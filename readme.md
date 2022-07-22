@@ -21,4 +21,4 @@ Hi, This is a fully working Youtube clone with youtube API that I have built usi
 * Youtube API
 
 ## Screenshots
-![Website Screenshot]( )
+![Website Screenshot](https://github.com/kishlayjeet/Youtube-Clone/blob/main/preview.png?raw=true)
