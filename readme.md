@@ -12,6 +12,7 @@ Hi, This is a fully working Youtube clone with youtube API that I have built usi
 ## Installation
 * Clone the repository
 * Then click on the *index.html* folder
+* Add your Youtube API token in the main.js file
 * Done :)
 
 ## Libraries/Technologies used
